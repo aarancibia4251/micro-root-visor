@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "@tdp/root-config": "//localhost:9000/index.js",
+    "@tdp/visor": "//localhost:4200/main.js"
+  }
+}

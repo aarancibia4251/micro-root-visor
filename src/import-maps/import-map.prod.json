@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "react": "https://cdn.jsdelivr.net/npm/react@16.13.0/umd/react.production.min.js",
+    "react-dom": "https://cdn.jsdelivr.net/npm/react-dom@16.13.0/umd/react-dom.production.min.js",
+    "@tdp/root-config": "https://tdp-main-mf.azurewebsites.net/index.js",
+    "@tdp/visor": "https://tdp-login-mf.azurewebsites.net/main.js"
+  }
+}
